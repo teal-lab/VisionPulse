@@ -1,0 +1,95 @@
+root = true
+
+[*.cs]
+
+# ===========================================================================================
+# Enabled Warings
+# ===========================================================================================
+
+# Elements must appear in correct order (class, struct, interface, etc.)
+dotnet_diagnostic.SA1201.severity = warning
+
+# Elements should be ordered by access level (public, internal, protected, private)
+dotnet_diagnostic.SA1202.severity = warning
+
+# Constants must appear before fields
+dotnet_diagnostic.SA1203.severity = warning
+
+# Static members must appear before instance members
+dotnet_diagnostic.SA1204.severity = warning
+
+# Partial elements must be declared correctly
+dotnet_diagnostic.SA1205.severity = warning
+
+# Partial elements should be ordered alphabetically
+dotnet_diagnostic.SA1206.severity = warning
+
+# Accessors of properties and indexers must be ordered correctly (get before set)
+dotnet_diagnostic.SA1207.severity = warning
+
+# System using directives must be placed before other using directives
+dotnet_diagnostic.SA1208.severity = warning
+
+# Using alias directives must be ordered alphabetically
+dotnet_diagnostic.SA1209.severity = warning
+
+# Using directives must be ordered alphabetically by namespace
+dotnet_diagnostic.SA1210.severity = warning
+
+# Static readonly fields must appear before instance fields
+dotnet_diagnostic.SA1211.severity = warning
+
+# Property accessors should follow the correct order
+dotnet_diagnostic.SA1212.severity = warning
+
+# Event accessors should follow correct order
+dotnet_diagnostic.SA1213.severity = warning
+
+# Readonly fields should appear before non-readonly fields
+dotnet_diagnostic.SA1214.severity = warning
+
+# Use explicit type instead of var
+dotnet_diagnostic.IDE0008.severity = warning
+
+# Organize usings
+dotnet_sort_system_directives_first = true
+
+# Require ordering and remove unused usings
+dotnet_separate_import_directive_groups = false
+
+# Use style rules for ordering
+dotnet_diagnostic.IDE0005.severity = warning
+
+# variable declared but never used
+dotnet_diagnostic.CS0168.severity = warning
+
+# variable assigned but never used
+dotnet_diagnostic.CS0219.severity = warning
+
+# private member is unused
+dotnet_diagnostic.IDE0051.severity = warning
+
+# private field is unread
+dotnet_diagnostic.IDE0052.severity = warning
+
+
+# ===========================================================================================
+# Disabled Warings
+# ===========================================================================================
+
+# Prefix local calls with this
+dotnet_diagnostic.SA1101.severity = none
+
+# Elements should be documented
+dotnet_diagnostic.SA1600.severity = none
+
+# Enumeration items should be documented
+dotnet_diagnostic.SA1602.severity = none
+
+# File header is missing
+dotnet_diagnostic.SA1633.severity = none
+
+# Tuple types in signatures should have element names
+dotnet_diagnostic.SA1414.severity = none
+
+

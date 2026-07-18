@@ -1,0 +1,18 @@
+Closest Distance: Closest Distance
+Congratulations: Congratulations
+Discovered Objects: Discovered Objects
+During Navigation: During Navigation
+Empty: Empty
+Grabbable Object: Grabbable Object
+Most Recently Seen: Most Recently Seen
+Moving On To The Next Scene: Moving On To The Next Scene
+Not Fully Explored: Not Fully Explored
+Number of Objects Seen: Number of Objects Seen
+Number of Regions Seen: Number of Regions Seen
+Object Grabbed: Object Grabbed
+Reached Waypoint: Reached Waypoint
+Remaining: Remaining
+Sorting Objects By: Sorting Objects By
+Sorting Regions By: Sorting Regions By
+The Key Has Been Collected: The Key Has Been Collected
+The Key Has Not Been Collected: The Key Has Not Been Collected

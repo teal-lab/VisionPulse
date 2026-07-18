@@ -1,0 +1,64 @@
+# Scene 1:
+Captain's Quarters: Captain's Quarters
+Hallway: Hallway
+Supply Room: Supply Room
+
+Computer: Computer
+Power Cell: Power Cell
+
+
+# Scene 2:
+Courtyard Area: Courtyard Area
+Vegetation Area: Vegetation Area
+Supplies Area: Supplies Area
+
+Flowerpot: Flowerpot
+Flowers: Flowers
+
+
+# Scene 3:
+Office: Office
+Living Room: Living Room
+Kitchen: Kitchen
+
+Desk: Desk
+Notepad: Notepad
+
+
+# Scene 4:
+Bedroom: Bedroom
+# Hallway: Hallway
+Laundry Room: Laundry Room
+
+Bed: Bed
+Blanket: Blanket
+
+
+# Scene 5:
+Main Corridor: Main Corridor
+Specimen Bay: Specimen Bay
+Lab: Lab
+
+Crystal: Crystal
+Workbench: Workbench
+
+
+# Scene 6:
+Work Area: Work Area
+Pathway: Pathway
+Reflection Area: Reflection Area
+
+# Workbench: Workbench
+Watering Can: Watering Can
+
+
+# Tutorial Scene:
+Room: Room
+
+Red Cube: Red Cube
+Green Cube: Green Cube
+
+
+# All Scenes:
+Undiscovered Section: Undiscovered Section
+Console: Console

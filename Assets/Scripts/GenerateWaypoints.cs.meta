@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8bf2872789a2eda459ca467bec6c44df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - testingWaypointMaterialCorner: {instanceID: 0}
+  - testingWaypointMaterialExtra: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

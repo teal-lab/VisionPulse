@@ -1,0 +1,60 @@
+# Scene goals and region descriptions
+UserStudyTutorialScene Goal: Find and grab the red cube and then go to the green cube.
+
+Scene 1 Goal: Find and grab the Power Cell and then go to the Computer.
+* Scene 1 Hallway: You are in a large spaceship hallway. The hallway follows a curved path with multiple sliding doors along the way. The spaceship is made of smooth metal panels with a white, gray, and dark-red color scheme with soft blue lights.
+* Scene 1 Captain's Quarters: You are in a small, enclosed room with smooth metal panels and a wall-mounted table.
+* Scene 1 Supply Room: You are in a small, enclosed room with smooth metal panels and a wall-mounted table.
+
+Scene 2 Goal: Find and grab the Flowers and then go to the Flowerpot.
+* Scene 2 Courtyard Area: You are in a large garden area surrounded by tall hedge walls, with a wooden table. The ground beneath you is a dirt path.
+* Scene 2 Vegetation Area: You are in a large outdoor corridor formed by tall hedge walls. In the corridor is a wooden table.
+* Scene 2 Supplies Area: You are in a large outdoor corridor formed by tall hedge walls. In the corridor is a wooden table.
+
+Scene 3 Goal: Find and grab the Notepad and then go to the Desk.
+* Scene 3 Office: You are in a small room with a blue dresser, a tall floor lamp, and double doors. The whole house has light wooden floors and dark blue walls.
+* Scene 3 Living Room: You are in a large room with a long orange sofa that faces a mounted TV, a large planter with broad green leaves, and a dining table.
+* Scene 3 Kitchen: You are in a large room with sinks and stoves.
+
+Scene 4 Goal: Find and grab the Blanket and then go to the Bed.
+* Scene 4 Bedroom: You are in a small room with a white dresser and a lamp. The whole house has light wooden floors and dark blue walls.
+* Scene 4 Hallway: You are in a room with a long orange sofa that faces a mounted TV and a large planter with green leaves.
+* Scene 4 Laundry Room: You are in a small room with a large table.
+
+Scene 5 Goal: Find and grab the Crystal and then go to the Workbench.
+* Scene 5 Main Corridor: You are in the main corridor of a spaceship. Above you, the ceiling is made of transparent panels, giving an open view of deep space. There are two doors around you. The spaceship is made of smooth metal panels with a white, gray, and dark-red color scheme with soft blue lights.
+* Scene 5 Specimen Bay: You are in a small, enclosed room with smooth metal panels and a wall-mounted table.
+* Scene 5 Lab: You are in a medium-sized rectangular room, enclosed with smooth metal panels and a wall-mounted table.
+
+Scene 6 Goal: Find and grab the Water Bucket and then go to the Workbench.
+* Scene 6 Work Area: You are in a garden surrounded by tall hedge walls and a wooden table. The ground beneath you is a dirt path.
+* Scene 6 Pathway: You are in a large garden alcove enclosed by tall hedge walls. At the end of the pathway, is a wooden table.
+* Scene 6 Reflection Area: You are in a large area surrounded by tall hedge walls with a wooden table. A dirt path forms a rough oval loop around a stone fountain.
+
+# Fun facts
+Garden Fun Fact 1: The Gardens of Versailles in France are the largest garden in the world, covering more than 800 hectares of land.
+Garden Fun Fact 2: The Hanging Gardens of Babylon are one of the Seven Wonders of the Ancient World.
+House Fun Fact 1: Archaeologists discovered the remains of stone houses in Scotland that are over 5,000 years old, older than the pyramids of Egypt.
+House Fun Fact 2: In California, the Winchester Mystery House has 160 rooms, staircases that lead to nowhere, and doors that open into walls, all built by Sarah Winchester.
+Space Fun Fact 1: There are more stars in the universe than grains of sand on Earth. Astronomers estimate there are over 200 billion trillion stars.
+Space Fun Fact 2: If two pieces of the same metal touch in space, they fuse together. This phenomenon is called cold welding, and it happens because in a vacuum, there's no barrier like oxygen to keep the atoms apart.
+
+# Feedback Modality stuff
+Feedback Modality: The feedback modality you will be using is
+Audio Beacon: Audio Beacon
+Responsive Audio Beacon: Responsive Audio Beacon
+Responsive Audio Beacon + Haptics: Responsive Audio Beacon + Haptics
+
+Audio Beacon Description: Depending where the beacon is located, you will hear a hum either on the left or right side of your ear. If you feel it in both ears evenly, it means you are roughly facing the object head on.
+Responsive Audio Beacon Description: There are four tones whose volume and pitch change based on direction. When you face a beacon directly, both are strongest. Be sure to check up and down as well as left and right for the best signal.
+Haptics Description: When you are within two meters of the beacon, your controllers start vibrating. The vibration changes with distance and especially with how accurately you are aiming, so rely on it more than the hum to pinpoint the beacons position.
+
+# Some misc stuff
+Entered Region: Entered Region
+Goal of Scene: Goal of Scene
+Congratulations: Congratulations! You have completed all of the tasks!
+Test Switch: Before we move on to the next scene, the last three scenes will be a different type of test. You will still use the same three feedback types again in the same order, so there is no need for any additional training. The next test is:
+Prebuilt Test: All of the regions and interactable objects are already in the discovery menu.
+Discovery Test: Explore the environment to uncover interactable objects and regions that will get added to the discovery menu.
+Discovery Test Explanation 1: When exploring the environment, a chime will play like this:
+Discovery Test Explanation 2: to indicate a newly discovered region. Additionally text-to-speech will announce the name of any newly discovered interactable object.
